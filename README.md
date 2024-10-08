@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm pretty cool
+
 <!--
 **Jawgee/Jawgee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
